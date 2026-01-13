@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAIvnfQvDI3UazbTFS865rPgAAAAACAAAAAAAQZgAAAAEAACAAAAC2JgzBjlsqhPTC9tnYS9hAvzXtAkwJZy+/EJtkbLaqugAAAAAOgAAAAAIAACAAAAADTY8adSfwCLeFpBC5DOLouk2u6IkcvV64Vtr2WjXSNYAAAAA6VfGmGydHDSAyNh09WoxZdj7HG+R+WT0F9JgJYUYyL5/BL4peGlgwzWRMBFT7HFbDPbD/HI2jkPqkiR85X3CRjPHwe3eOgacdhzeHEjlQt01M4Ws5D1+pPBYgFVZ6kA0Va/Hw3r8dAMyXMCDhmeDYMe1mV2wzakoL7mwJZX7QBkAAAACJZgDY46/ABSdCtx1z6gIJ4xEQmfQNjMGkAIunOxKWO+Na3zElHNMMzvEV7ECWsJODv3mM18gaCm8/vlMDUGlY</EncryptedPassword>
+    <History>False|2024-08-29T11:18:10.0520809Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ApplicationDbContextConnection">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=CloudPart1%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="AzureStorage">
+      <Value>DefaultEndpointsProtocol=https%3bAccountName=storagetest2137%3bAccountKey=wUZ/NjAEcQHxCuKcfvpamZCXggjKTBlb08ON4o/RSBW+OWjE1rVbJ6E+QgjGmenFJOpPrzXaFvr9+AStvXU+hQ==%3bEndpointSuffix=core.windows.net</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="CloudPart1.Areas.Identity.Data.ApplicationDbContext">
+      <Value>Server=%28localdb%29\mssqllocaldb%3bDatabase=CloudPart1%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

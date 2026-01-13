@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denel\\source\\repos\\CloudPart1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\order\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\order\\orderconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\order\\orderconfirm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\order\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\order\\checkoutorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\order\\checkoutorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\models\\checkoutorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\models\\checkoutorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\services\\fileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\services\\fileshareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|c:\\users\\denel\\source\\repos\\cloudpart1\\cloudpart1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B695C83F-7187-40E3-8CC9-E1D7A0EE0098}|CloudPart1\\CloudPart1.csproj|solutionrelative:cloudpart1\\models\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAACYAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:32:41.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Orders.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Order\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Orders.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Order\\Orders.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:28:55.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckoutOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\CheckoutOrders.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Order\\CheckoutOrders.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\CheckoutOrders.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Order\\CheckoutOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:08:29.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Order.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Order\\Order.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Order.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Order\\Order.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:23:32.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:08:18.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderConfirm.cshtml",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\OrderConfirm.cshtml",
+              "RelativeDocumentMoniker": "CloudPart1\\Views\\Order\\OrderConfirm.cshtml",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Views\\Order\\OrderConfirm.cshtml",
+              "RelativeToolTip": "CloudPart1\\Views\\Order\\OrderConfirm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T11:50:11.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "CloudPart1\\Services\\TableStorageService.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAANQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:48:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CloudPart1\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAEoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:05:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CheckoutOrder.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\CheckoutOrder.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Models\\CheckoutOrder.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\CheckoutOrder.cs",
+              "RelativeToolTip": "CloudPart1\\Models\\CheckoutOrder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:04:28.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "CloudPart1\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T11:37:46.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\Order.cs",
+              "RelativeToolTip": "CloudPart1\\Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:15:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileShareService.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Services\\FileShareService.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Services\\FileShareService.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Services\\FileShareService.cs",
+              "RelativeToolTip": "CloudPart1\\Services\\FileShareService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:42:48.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "CloudPart1\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAJsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:03:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Program.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Program.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Program.cs",
+              "RelativeToolTip": "CloudPart1\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:44:13.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "CloudPart1\\Models\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\denel\\source\\repos\\CloudPart1\\CloudPart1\\Models\\CustomerProfile.cs",
+              "RelativeToolTip": "CloudPart1\\Models\\CustomerProfile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:44:04.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

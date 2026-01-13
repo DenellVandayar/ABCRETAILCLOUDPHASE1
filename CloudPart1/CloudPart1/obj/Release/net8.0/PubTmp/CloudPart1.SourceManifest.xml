@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\lab_services_student\source\repos\CloudPart1\CloudPart1\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\lab_services_student\source\repos\CloudPart1\CloudPart1\obj\Release\net8.0\PubTmp\EFSQLScripts\CloudPart1.Areas.Identity.Data.ApplicationDbContext.sql" />
+</sitemanifest>

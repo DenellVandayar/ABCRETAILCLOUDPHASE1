@@ -1,0 +1,26 @@
+﻿@page
+@model CloudPart1.Areas.Identity.Pages.Profile.EditModel;
+@{
+    ViewData["Title"] = "Edit Profile";
+}
+
+<h1>Edit Profile</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Profile.FirstName" class="control-label"></label>
+        <input asp-for="Profile.FirstName" class="form-control" />
+        <span asp-validation-for="Profile.FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Profile.LastName" class="control-label"></label>
+        <input asp-for="Profile.LastName" class="form-control" />
+        <span asp-validation-for="Profile.LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Profile.Email" class="control-label"></label>
+        <input asp-for="Profile.Email" class="form-control" readonly />
+        <span asp-validation-for="Profile.Email" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
