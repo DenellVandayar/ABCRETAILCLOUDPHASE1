@@ -68,20 +68,24 @@ This approach demonstrates an understanding of **scalable, cost-effective cloud 
 ![Azure App Service](screenshots/azure-app-service.png)
 
 ### Azure Table Storage
-![Table Storage](screenshots/table-storage.png)
+<img width="1366" height="768" alt="Screenshot 2024-08-29 114156" src="https://github.com/user-attachments/assets/2e6d9820-dc33-4eb7-baac-8d73b6400cdb" />
+<img width="1366" height="768" alt="Screenshot 2024-08-29 120623" src="https://github.com/user-attachments/assets/b205c05f-4c27-4846-82ca-6e1d6f9aea58" />
+<img width="1366" height="768" alt="Screenshot 2024-08-29 121534" src="https://github.com/user-attachments/assets/c562282e-0342-4b06-ac93-fb7cbaf36ab4" />
+<img width="1366" height="768" alt="Screenshot 2024-08-29 123436" src="https://github.com/user-attachments/assets/880cab1d-5a3c-4ca3-a718-81b5464e82a7" />
+
 
 ### Azure Blob Storage
-![Blob Storage](screenshots/blob-storage.png)
+<img width="1366" height="768" alt="Screenshot 2024-08-29 121454" src="https://github.com/user-attachments/assets/9660c22d-7054-4c34-83e1-48e3752763eb" />
 
 ### Azure Queue Storage
-![Queue Storage](screenshots/queue-storage.png)
+<img width="1366" height="768" alt="Screenshot 2024-08-29 123457" src="https://github.com/user-attachments/assets/aad30721-8c7e-4974-85e0-dffc2b454d7b" />
+<img width="1366" height="768" alt="Screenshot 2024-08-29 123512" src="https://github.com/user-attachments/assets/00f05779-e288-453c-8115-f6e79a1355ab" />
 
 ### Azure File Storage
-![File Storage](screenshots/file-storage.png)
+<img width="1366" height="768" alt="Screenshot 2024-08-29 121418" src="https://github.com/user-attachments/assets/fd14d624-2c24-4e84-b039-dc31cde1356a" />
 
 ### Application UI
-![Catalog Page](screenshots/catalog-page.png)
-![Cart Page](screenshots/cart-page.png)
+<img width="1349" height="729" alt="azure app running" src="https://github.com/user-attachments/assets/79a51094-2c57-4c2d-a122-1bd1dd0fe3dc" />
 
 ---
 
